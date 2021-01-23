@@ -5,3 +5,5 @@ Hola, soy demskur, naci en la tierra y siguo viviendo alli.
 Mañana me enfocare en su vida actual.
 
 probemos el rm.
+
+probando el reset --soft.
