@@ -1,2 +1,2 @@
-# cursogit
-Progresos con el curso de git subidos a esta rama
+# Curso de git
+Progresos con el curso de git subidos a esta rama, este readme podria ser mas bonito si le dedicara mas tiempo y usara la pagina de [editor.md](http://https://pandao.github.io/editor.md/ "editor.md").
