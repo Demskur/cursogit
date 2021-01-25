@@ -11,3 +11,5 @@ probando el reset --soft.
 probemos desde otro usuario la colaboracion.
 
 master 1, prueba rebase.
+
+master 2.
