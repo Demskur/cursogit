@@ -24,4 +24,7 @@ experimento 1.
 experimento 2.
 >>>>>>> experimento 2
 
-ahora vamos a probar el cherry-pick
+ahora vamos a probar el cherry-pick,
+otra linea para probar cherrys,
+otra linea mas.
+
