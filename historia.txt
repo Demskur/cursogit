@@ -23,3 +23,5 @@ experimento 1.
 
 experimento 2.
 >>>>>>> experimento 2
+
+ahora vamos a probar el cherry-pick
