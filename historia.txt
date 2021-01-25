@@ -13,7 +13,13 @@ probemos desde otro usuario la colaboracion.
 master 1, prueba rebase.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 master 2.
 =======
 experimento 1.
 >>>>>>> experimento 1
+=======
+experimento 1.
+
+experimento 2.
+>>>>>>> experimento 2
